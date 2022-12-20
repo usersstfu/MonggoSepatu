@@ -1,0 +1,30 @@
+table {
+background-color: aliceblue;
+    border-collapse: collapse;
+    font-size: 15pt;
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+body {
+    background:  #34495e ;
+    background-size: 100%;
+    background-position: 0px 0px;
+    
+        }
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    color: white;
+        }
+.box {
+    width: 300px;
+padding: 50px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: #191919;
+}
+
